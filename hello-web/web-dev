@@ -1,3 +1,5 @@
      GIT COMMANDS
      git innit
      git config
+     git log
+git diff
